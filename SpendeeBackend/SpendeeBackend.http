@@ -1,0 +1,6 @@
+@SpendeeBackend_HostAddress = http://localhost:5074
+
+GET {{SpendeeBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

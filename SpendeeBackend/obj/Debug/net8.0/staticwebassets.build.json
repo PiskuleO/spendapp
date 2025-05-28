@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QaMwtWNHCd7plhdUnbiMvgMAYl5b51E9BgjmD8bJ/lk=",
+  "Source": "SpendeeBackend",
+  "BasePath": "_content/SpendeeBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
